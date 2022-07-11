@@ -1,6 +1,8 @@
 # SQL
 SQL Portfolio
 check out my store database here.
+Notice how I've described each piece of code (first I created a store database, then displayed the database ordered by values).
+
 
 CREATE TABLE bikes (id INTEGER PRIMARY KEY,item TEXT, quantity INTEGER, aisle INTEGER, size TEXT);
 
